@@ -1,0 +1,33 @@
+{
+  "drive_project_root": "/content/drive/.shortcut-targets-by-id/18-xxrEv08QY4Ka68hUjRkNVgnb6hktum/CA6127_project",
+  "evaluation_input_root": "/content/CA6127_member_b_evaluation/666fa7c27070",
+  "generation_gpu": "Tesla T4",
+  "steps": [
+    10,
+    20,
+    40,
+    50
+  ],
+  "run_generation": false,
+  "run_metrics": true,
+  "baseline_versions": {
+    "torch": "2.11.0+cu130",
+    "diffusers": "0.40.0",
+    "transformers": "5.18.0"
+  },
+  "metric_batch_size": 32,
+  "timing_scope": "pipeline call only (text encoding + denoising + VAE decode); excludes model loading and image saving; per-sampler warm-up",
+  "run_timing_recheck": true,
+  "same_session_prompts": 20,
+  "same_session_latency_s": {
+    "10": 1.657765,
+    "20": 3.07815,
+    "30": 4.504979999999999,
+    "40": 5.966445,
+    "50": 7.551984999999999
+  },
+  "sd_future_load_revision": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+  "clip_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "historical_sd_revision": null,
+  "historical_sd_revision_status": "unverified"
+}

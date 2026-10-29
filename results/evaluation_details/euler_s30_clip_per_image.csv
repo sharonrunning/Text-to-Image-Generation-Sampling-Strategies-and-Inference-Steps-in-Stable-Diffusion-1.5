@@ -1,0 +1,201 @@
+batch,sampler,steps,prompt_id,image_id,seed,image_file,caption,clip_raw_100cos,caption_tokens,truncated
+euler_s30,euler,30,0,161978,1000,0000.png,Different people are doing skateboard tricks and riding.,29.279369354248047,11,False
+euler_s30,euler,30,1,216296,1001,0001.png,a couple of guys with tennis rackets waiting on a ball,32.20143508911133,14,False
+euler_s30,euler,30,2,570456,1002,0002.png,A living room filled with furniture and a table.,26.275014877319336,12,False
+euler_s30,euler,30,3,176701,1003,0003.png,Identical street signs pointing in the opposite directions of each other.,30.288270950317383,14,False
+euler_s30,euler,30,4,541291,1004,0004.png,"The old, dilapidated  bathroom has fallen into disrepair.",30.303525924682617,16,False
+euler_s30,euler,30,5,113720,1005,0005.png,A couple is sitting at a table eating pizza.,30.654865264892578,12,False
+euler_s30,euler,30,6,49091,1006,0006.png,A city lined with tall buildings covered in hanging letters.,27.88573455810547,13,False
+euler_s30,euler,30,7,42070,1007,0007.png,A very big city bus on a big street.,30.264816284179688,12,False
+euler_s30,euler,30,8,32081,1008,0008.png,A woman holding a tennis racquet on a tennis court.,29.910215377807617,14,False
+euler_s30,euler,30,9,84241,1009,0009.png,A group of women in kitchen next to pot.,33.68166732788086,12,False
+euler_s30,euler,30,10,461405,1010,0010.png,A group of sheep in a grassy area with trees in the back ground.,35.01638412475586,17,False
+euler_s30,euler,30,11,156924,1011,0011.png,a man and a woman are holding video game controllers,33.40160369873047,12,False
+euler_s30,euler,30,12,138241,1012,0012.png,A burrito sitting on top of a white plate.,32.81879806518555,12,False
+euler_s30,euler,30,13,213593,1013,0013.png,A red stop sign sitting on the side of a tall building.,33.77192687988281,15,False
+euler_s30,euler,30,14,482100,1014,0014.png,These toilets are being used outside as decor,29.769193649291992,10,False
+euler_s30,euler,30,15,482719,1015,0015.png,The fruit is placed in a bowl out in the open to be eaten,30.058103561401367,16,False
+euler_s30,euler,30,16,147729,1016,0016.png,People gathered taking pictures with a cell phone.,30.23870849609375,11,False
+euler_s30,euler,30,17,365642,1017,0017.png,A young attractive woman sitting on a toilette on the side of a street.,29.648696899414062,18,False
+euler_s30,euler,30,18,203864,1018,0018.png,Two people standing on a tennis court playing tennis,32.11894607543945,11,False
+euler_s30,euler,30,19,565563,1019,0019.png,Many cars are parked along the sidewalk of a narrow street.,32.43046569824219,14,False
+euler_s30,euler,30,20,257478,1020,0020.png,a close up of a baseball player holding a glove on the field,30.24207878112793,15,False
+euler_s30,euler,30,21,568814,1021,0021.png,A man with a bear sitting with his arms crossed and his tie over his left shoulder.,31.093639373779297,20,False
+euler_s30,euler,30,22,16958,1022,0022.png,A room with a fireplace and a wooden table.,27.74118995666504,12,False
+euler_s30,euler,30,23,345356,1023,0023.png,A man in a gray shirt holds his phone as he sits by a man in a white t-shirt.,26.218164443969727,24,False
+euler_s30,euler,30,24,525286,1024,0024.png,A large clock  is on the wall where the paint is peeling.,30.08812141418457,15,False
+euler_s30,euler,30,25,128699,1025,0025.png,A man that has a skateboard in the air.,30.968433380126953,12,False
+euler_s30,euler,30,26,527427,1026,0026.png,a female is talking on the phone and a laptop on a table,28.89153289794922,15,False
+euler_s30,euler,30,27,313454,1027,0027.png,A man standing at a podium at a USINDO luncheon,30.507400512695312,13,False
+euler_s30,euler,30,28,94852,1028,0028.png,A mother looks after a baby elephant in the wild.,31.595537185668945,13,False
+euler_s30,euler,30,29,97994,1029,0029.png,Three laptop computers and a desktop computer sit next to each other.,28.876245498657227,17,False
+euler_s30,euler,30,30,189806,1030,0030.png,A cat and a Dog playing on the floor near shoes.,31.751203536987305,14,False
+euler_s30,euler,30,31,523194,1031,0031.png,A fire hydrant on the side of a road.,31.69565773010254,13,False
+euler_s30,euler,30,32,270122,1032,0032.png,Waves crashing on the shore with a surfer in the midst,27.665748596191406,13,False
+euler_s30,euler,30,33,167540,1033,0033.png,An airplane flying in a cloudy blue sky.,28.620237350463867,11,False
+euler_s30,euler,30,34,451144,1034,0034.png,a couple of people on skis sit on top of a snowy hill,29.586162567138672,15,False
+euler_s30,euler,30,35,370270,1035,0035.png,a person hitting a ball with a stick in a office.,34.62876510620117,14,False
+euler_s30,euler,30,36,119088,1036,0036.png,The men are up to their knees in the water.,31.015426635742188,13,False
+euler_s30,euler,30,37,41633,1037,0037.png,"A burgundy low-rider show-quality, hot rod Chevy truck.",35.15191650390625,16,False
+euler_s30,euler,30,38,1503,1038,0038.png,A computer on a desk next to a laptop.,24.282846450805664,13,False
+euler_s30,euler,30,39,127987,1039,0039.png,A baseball player bobble head next to two computer monitors on a desk.,35.43716049194336,17,False
+euler_s30,euler,30,40,286908,1040,0040.png,Various dishes of food sit in bowls on a table.,29.454505920410156,13,False
+euler_s30,euler,30,41,321214,1041,0041.png,A baby in plaid shirt eating a frosted cake.,34.755489349365234,12,False
+euler_s30,euler,30,42,508312,1042,0042.png,A stove that has a light above it.,27.154386520385742,11,False
+euler_s30,euler,30,43,453302,1043,0043.png,"A kitchen that has a tile floor, a refrigerator, a microwave, and a toaster.",31.286102294921875,20,False
+euler_s30,euler,30,44,157847,1044,0044.png,a bird that is flying high over the sky,29.176122665405273,11,False
+euler_s30,euler,30,45,81594,1045,0045.png,A woman holding an umbrella while standing on top of a wooden deck.,34.623104095458984,16,False
+euler_s30,euler,30,46,221281,1046,0046.png,A group of giraffes walking in the sand.,31.99675750732422,12,False
+euler_s30,euler,30,47,474028,1047,0047.png,a group of kids playing soccer in a field,29.847217559814453,11,False
+euler_s30,euler,30,48,267670,1048,0048.png,"A toilet, mirror and sink in a toilet",28.283790588378906,11,False
+euler_s30,euler,30,49,110282,1049,0049.png,"A metal pole with a traffic light attached, red right arrow illuminated, with green grass, green trees, and white sky in background.",33.51352310180664,29,False
+euler_s30,euler,30,50,73326,1050,0050.png,An open refrigerator including bottles of various food.,29.556148529052734,11,False
+euler_s30,euler,30,51,462576,1051,0051.png,a plate of breakfast food sits on a table,29.850915908813477,11,False
+euler_s30,euler,30,52,213033,1052,0052.png,A man standing near the water with an umbrella.,33.05691909790039,12,False
+euler_s30,euler,30,53,15746,1053,0053.png,A fire hydrant is standing amid some grass.,40.633644104003906,12,False
+euler_s30,euler,30,54,334417,1054,0054.png,A man looks on as he finishes his meal,30.197629928588867,11,False
+euler_s30,euler,30,55,190307,1055,0055.png,The young woman is riding the dolphin in the water.,30.82304573059082,13,False
+euler_s30,euler,30,56,55299,1056,0056.png,A bird is perched on a large rock near the shore.,30.594057083129883,14,False
+euler_s30,euler,30,57,553731,1057,0057.png,A clown talking on a  phone next to a building.,32.781070709228516,13,False
+euler_s30,euler,30,58,302990,1058,0058.png,A person with a surfboard in a room.,33.46491241455078,12,False
+euler_s30,euler,30,59,140556,1059,0059.png,these man are standing near a fire hydrant,29.340421676635742,11,False
+euler_s30,euler,30,60,139077,1060,0060.png,A young boy holding a Nintendo Wii game controller.,34.60947799682617,12,False
+euler_s30,euler,30,61,568290,1061,0061.png,A red extra long bus driving down a stone covered walkway.,33.90692901611328,14,False
+euler_s30,euler,30,62,547886,1062,0062.png,Four people on horses walking on beach next to water.,35.2809944152832,13,False
+euler_s30,euler,30,63,412887,1063,0063.png,"Though not the smartest animals in the world, the cow still has a friendly face.",31.683826446533203,19,False
+euler_s30,euler,30,64,532493,1064,0064.png,A surfer on a white board riding a small wave.,29.760520935058594,13,False
+euler_s30,euler,30,65,201418,1065,0065.png,A young man standing in front of a luggage carousel at an airport.,33.808349609375,16,False
+euler_s30,euler,30,66,446574,1066,0066.png,A bathroom has a shower and toilet in it.,27.955242156982422,12,False
+euler_s30,euler,30,67,520531,1067,0067.png,an image of a cat sitting on top of the desk area,33.930458068847656,14,False
+euler_s30,euler,30,68,1675,1068,0068.png,A cat resting on an open laptop computer.,30.985767364501953,12,False
+euler_s30,euler,30,69,246968,1069,0069.png,A young woman standing in the kitchen pours from a large measuring cup.,27.49535369873047,16,False
+euler_s30,euler,30,70,302760,1070,0070.png,A bathroom sink with a marble counter top under a large mirror.,25.93947982788086,15,False
+euler_s30,euler,30,71,297396,1071,0071.png,Small pieces of cake have been arranged on a plate,30.855295181274414,12,False
+euler_s30,euler,30,72,545407,1072,0072.png,A side view of a plane flying in the clear blue sky,29.35870361328125,14,False
+euler_s30,euler,30,73,199055,1073,0073.png,A person on skateboard skating on the pavement.,29.88147735595703,12,False
+euler_s30,euler,30,74,168593,1074,0074.png,"There are two refrigerators in this dirty, rundown kitchen.",35.032196044921875,14,False
+euler_s30,euler,30,75,490515,1075,0075.png,a person riding a snow board falling to the ground,30.188190460205078,12,False
+euler_s30,euler,30,76,515266,1076,0076.png,A white truck parked next to a white trailer.,27.5545711517334,12,False
+euler_s30,euler,30,77,554595,1077,0077.png,A man laying on top of a sandy beach laying next to a surfboard.,28.193771362304688,18,False
+euler_s30,euler,30,78,438226,1078,0078.png,A sandwich on a plate cutin half next to pasta.,31.0241756439209,14,False
+euler_s30,euler,30,79,140929,1079,0079.png,The clock is on display on the side of the building outside.,30.078136444091797,15,False
+euler_s30,euler,30,80,185599,1080,0080.png,Many apples and oranges are stacked near to each other.,26.49884605407715,13,False
+euler_s30,euler,30,81,24610,1081,0081.png,A disorderly living area is free from decorative elements.,28.531753540039062,13,False
+euler_s30,euler,30,82,283070,1082,0082.png,some oranges that are sitting on some wood,29.297727584838867,10,False
+euler_s30,euler,30,83,564091,1083,0083.png,A woman is sitting at her jewelry display and talking on the phone.,31.875988006591797,16,False
+euler_s30,euler,30,84,361142,1084,0084.png,A very tall building sitting along side of a street.,29.82886505126953,13,False
+euler_s30,euler,30,85,184324,1085,0085.png,A group of people walking across a busy city street.,29.999053955078125,13,False
+euler_s30,euler,30,86,336309,1086,0086.png,a large passenger airplane flying through a cloudy sky,29.94195556640625,11,False
+euler_s30,euler,30,87,242060,1087,0087.png,a plate of pastry on a wood table and a glass of drink,36.96003341674805,15,False
+euler_s30,euler,30,88,555012,1088,0088.png,The roll of toilet paper beside the toilet is empty.,29.739723205566406,13,False
+euler_s30,euler,30,89,96960,1089,0089.png,A large white polar bear swimming in a pool of blue water.,33.58832550048828,15,False
+euler_s30,euler,30,90,147205,1090,0090.png,Some food that is on a glass plate.,26.65625762939453,11,False
+euler_s30,euler,30,91,100489,1091,0091.png,A bird perched on top of a tree filled with leaves.,33.55607223510742,14,False
+euler_s30,euler,30,92,327617,1092,0092.png,an old black and white photo of a tennis player,33.3231201171875,12,False
+euler_s30,euler,30,93,92416,1093,0093.png,A young man holding a bottle of beer while wearing a suit.,32.78211975097656,15,False
+euler_s30,euler,30,94,129062,1094,0094.png,A hotdog stand with outside seating and bright lights.,36.05144119262695,12,False
+euler_s30,euler,30,95,289960,1095,0095.png,A person standing on top of a beach flying a kite.,34.102970123291016,14,False
+euler_s30,euler,30,96,323895,1096,0096.png,A man in yellow shirt and black shorts playing a game of tennis.,31.30331039428711,16,False
+euler_s30,euler,30,97,132544,1097,0097.png,A girl taking a swing at a baseball during a game.,31.571548461914062,14,False
+euler_s30,euler,30,98,229747,1098,0098.png,A photo of an outside with various things in the scene.,29.401683807373047,14,False
+euler_s30,euler,30,99,237316,1099,0099.png,The tiny white bathroom has a toilet and pedestal sink.,29.599470138549805,14,False
+euler_s30,euler,30,100,133567,1100,0100.png,A person looking at a train going by.,25.05689239501953,11,False
+euler_s30,euler,30,101,468954,1101,0101.png,A man with glasses on playing wii with a wii remote in his hand.,32.45087432861328,17,False
+euler_s30,euler,30,102,344816,1102,0102.png,The train engine is followed by a line of open cars.,27.68912696838379,14,False
+euler_s30,euler,30,103,442463,1103,0103.png,A kid is riding down the street on a skateboard.,34.152339935302734,13,False
+euler_s30,euler,30,104,35682,1104,0104.png,Eating a donut makes for a quick and easy breakfast.,30.946277618408203,13,False
+euler_s30,euler,30,105,245513,1105,0105.png,A giraffe standing in a field next to a fence.,30.66997528076172,13,False
+euler_s30,euler,30,106,62554,1106,0106.png,Several plates of food are set on a table.,27.896743774414062,12,False
+euler_s30,euler,30,107,492077,1107,0107.png,A line of people are riding bicycles on the street.,30.93315315246582,13,False
+euler_s30,euler,30,108,415716,1108,0108.png,"A beige living room with a cabinet,flowers, lamp and armchair.",29.677331924438477,16,False
+euler_s30,euler,30,109,568439,1109,0109.png,A couple of double high buses that are in the street.,30.19491958618164,14,False
+euler_s30,euler,30,110,534394,1110,0110.png,A herd of sheep moving up over a wall to a field from a sidewalk.,29.810270309448242,18,False
+euler_s30,euler,30,111,31749,1111,0111.png,A demonic looking chucky like doll standing next to a white clock.,35.593109130859375,15,False
+euler_s30,euler,30,112,257896,1112,0112.png,a close up of a person wearing a suit and tie,33.669586181640625,13,False
+euler_s30,euler,30,113,287527,1113,0113.png,A young man and woman holding their heads close to each other.,29.262737274169922,15,False
+euler_s30,euler,30,114,330554,1114,0114.png,Blender with portions of its contents spilled around it.,27.52138328552246,12,False
+euler_s30,euler,30,115,134882,1115,0115.png,A cat laying on a bed in front of a book shelf.,31.41767692565918,15,False
+euler_s30,euler,30,116,347174,1116,0116.png,A woman laying in bed  in her underwear.,27.878936767578125,11,False
+euler_s30,euler,30,117,335954,1117,0117.png,two cups filled with veggies and nuts,31.013526916503906,9,False
+euler_s30,euler,30,118,168458,1118,0118.png,there is a small glass vase that has purple flowers in it,31.219846725463867,14,False
+euler_s30,euler,30,119,476810,1119,0119.png,a cat is on a table next to a remote,32.03059005737305,12,False
+euler_s30,euler,30,120,457559,1120,0120.png,A group of young men playing a game of soccer.,30.50568389892578,13,False
+euler_s30,euler,30,121,417608,1121,0121.png,A cut in half sandwich sitting on top of a white plate.,29.731294631958008,15,False
+euler_s30,euler,30,122,189475,1122,0122.png,some people seated at a table with plates of food,26.45967674255371,12,False
+euler_s30,euler,30,123,8690,1123,0123.png,The two young girls are petting the two goats.,34.69213104248047,12,False
+euler_s30,euler,30,124,249129,1124,0124.png,A group of teddy bears sitting at a small table in front of a christmas tree.,38.03485107421875,19,False
+euler_s30,euler,30,125,455267,1125,0125.png,a wok on a stove cooking some food,28.41427993774414,10,False
+euler_s30,euler,30,126,158227,1126,0126.png,A young boy wearing a baseball uniform holding a baseball bat.,36.093692779541016,14,False
+euler_s30,euler,30,127,102644,1127,0127.png,A white toilet sitting in a bathroom next to a shower.,27.657190322875977,14,False
+euler_s30,euler,30,128,108026,1128,0128.png,A man holds a controller and keyboard with his hands,31.136375427246094,12,False
+euler_s30,euler,30,129,529568,1129,0129.png,A big fancy glass chandelier hanging in a small kitchen.,34.464820861816406,13,False
+euler_s30,euler,30,130,90062,1130,0130.png,A black and white cow stands in a paddock with firewood in the background.,32.26749801635742,18,False
+euler_s30,euler,30,131,125952,1131,0131.png,A piece of luggage is ready to go with cold wear on top for quick usage.,28.748130798339844,19,False
+euler_s30,euler,30,132,226883,1132,0132.png,An animal grazing on a lush field of green grass.,34.60944747924805,13,False
+euler_s30,euler,30,133,370813,1133,0133.png,A skateboarder's airborne feet and skateboard near a curb,31.04425621032715,13,False
+euler_s30,euler,30,134,122166,1134,0134.png,a person riding on a bicycle on the street in front of some cars,29.7983341217041,16,False
+euler_s30,euler,30,135,172877,1135,0135.png,A man in a shirt and tie sitting on a white chair next to a lamp.,28.326580047607422,19,False
+euler_s30,euler,30,136,262587,1136,0136.png,A man riding a wave on top of a yellow surfboard.,30.524259567260742,15,False
+euler_s30,euler,30,137,577932,1137,0137.png,A woman walking next to a man riding a pink bike.,35.67975616455078,14,False
+euler_s30,euler,30,138,120777,1138,0138.png,A tray topped with two plates of food and a drink.,29.054473876953125,14,False
+euler_s30,euler,30,139,426297,1139,0139.png,The zebra is wondering about the shadow that he sees.,31.515201568603516,13,False
+euler_s30,euler,30,140,240023,1140,0140.png,A tennis player using his shirt to dry his face during a tournament game.,29.271177291870117,17,False
+euler_s30,euler,30,141,352491,1141,0141.png,A train sitting idle in an empty train station,30.86066246032715,11,False
+euler_s30,euler,30,142,304545,1142,0142.png,A black suitcase with a handle and white background.,29.630083084106445,12,False
+euler_s30,euler,30,143,105014,1143,0143.png,a salad that looks like a boat is next to a fork,26.804256439208984,14,False
+euler_s30,euler,30,144,565469,1144,0144.png,there is a very tall tower with a clock at the top,27.642574310302734,14,False
+euler_s30,euler,30,145,100274,1145,0145.png,A long train traveling through a train yard.,27.899261474609375,11,False
+euler_s30,euler,30,146,18193,1146,0146.png,A woman in green sweater eating a hotdog by campfire.,38.2115478515625,13,False
+euler_s30,euler,30,147,509014,1147,0147.png,A group of people that are standing in the snow.,31.383499145507812,13,False
+euler_s30,euler,30,148,163746,1148,0148.png,A pretty young girl standing next to another pretty young girl on a beach.,32.43738555908203,17,False
+euler_s30,euler,30,149,215072,1149,0149.png,A couple of people sitting in chairs under an umbrella.,32.90684127807617,13,False
+euler_s30,euler,30,150,286507,1150,0150.png,A long red train traveling through snow covered country side.,34.931243896484375,13,False
+euler_s30,euler,30,151,226408,1151,0151.png,Child laying down with arms extended in the air.,28.881696701049805,12,False
+euler_s30,euler,30,152,341973,1152,0152.png,Two girls pose for a photo holding doughnuts.,35.44657516479492,11,False
+euler_s30,euler,30,153,163314,1153,0153.png,People are walking in front of some shops.,26.50838851928711,11,False
+euler_s30,euler,30,154,44260,1154,0154.png,A collection of apples growing on a tree.,31.562692642211914,11,False
+euler_s30,euler,30,155,128051,1155,0155.png,A green bus with a smaller bus sitting on top of it.,31.919771194458008,15,False
+euler_s30,euler,30,156,157046,1156,0156.png,A Nintendo Wii remote is being used to control a projector,27.040761947631836,13,False
+euler_s30,euler,30,157,261706,1157,0157.png,A black and white cat laying on a couch.,34.828880310058594,12,False
+euler_s30,euler,30,158,173183,1158,0158.png,"Street signs, corner of Lynn and Bigelow.taken 11.01.2009 23:58.",24.802167892456055,30,False
+euler_s30,euler,30,159,410650,1159,0159.png,A beautiful young woman swinging a tennis racquet on a tennis court.,31.143878936767578,16,False
+euler_s30,euler,30,160,281693,1160,0160.png,A large jet airplane being loaded with cargo at an airport.,31.712251663208008,14,False
+euler_s30,euler,30,161,177213,1161,0161.png,Small pizza sits on a plate on a restaurant table.,30.709938049316406,13,False
+euler_s30,euler,30,162,316404,1162,0162.png,A pair of men with small mustaches dress as tennis players.,38.85329818725586,15,False
+euler_s30,euler,30,163,239857,1163,0163.png,A woman is about to throw a frisbee in the dirt.,33.21877670288086,14,False
+euler_s30,euler,30,164,380711,1164,0164.png,There is a blurry photo of a surfer walking out of the water,30.589527130126953,15,False
+euler_s30,euler,30,165,136600,1165,0165.png,A lap top sits on a small desk with jars and candles around it,30.030376434326172,16,False
+euler_s30,euler,30,166,82180,1166,0166.png,A teddy bear and a stuffed raccoon sitting on a faded wooden outdoor chair.,34.9679069519043,17,False
+euler_s30,euler,30,167,26690,1167,0167.png,A man is high in the air as he skateboards on the ramp.,30.746868133544922,17,False
+euler_s30,euler,30,168,424721,1168,0168.png,A frying pan filled with vegetables and apples.,32.93679428100586,11,False
+euler_s30,euler,30,169,49259,1169,0169.png,A man with his shirt off sitting by the shoreline sunning himself.,33.342464447021484,16,False
+euler_s30,euler,30,170,290843,1170,0170.png,A woman sitting on a laptop computer next to a cat.,35.79555130004883,15,False
+euler_s30,euler,30,171,476215,1171,0171.png,A man standing behind two brown horses on a dirt field.,32.14541244506836,14,False
+euler_s30,euler,30,172,79144,1172,0172.png,Bear cubs play among the fallen tree limbs.,31.918548583984375,11,False
+euler_s30,euler,30,173,323709,1173,0173.png,Large commercial cargo plane sits on tarmac next to radar equipment.,32.9420280456543,14,False
+euler_s30,euler,30,174,335427,1174,0174.png,A bowl filled with broccoli soup next to a spoon and fork.,27.93185806274414,15,False
+euler_s30,euler,30,175,83172,1175,0175.png,A woman holding a racquet on top of a tennis court.,31.172948837280273,15,False
+euler_s30,euler,30,176,525083,1176,0176.png,a view of a kitchen from across the room.,28.9364013671875,12,False
+euler_s30,euler,30,177,357978,1177,0177.png,The blonde woman in the red checked shirt is learning to use Wii Fit.,29.4886474609375,17,False
+euler_s30,euler,30,178,127955,1178,0178.png,there are two brown bears that are playing together in the water,32.60002899169922,14,False
+euler_s30,euler,30,179,441491,1179,0179.png,Three women are taking a bite out of the same piece of pizza.,35.44882583618164,16,False
+euler_s30,euler,30,180,376322,1180,0180.png,A group of people are reading a menu at the table,31.121814727783203,13,False
+euler_s30,euler,30,181,80949,1181,0181.png,A KITTEN NAPPING ON THE KEYBOARD OF A LAPTOP.,35.30588912963867,12,False
+euler_s30,euler,30,182,189775,1182,0182.png,Competior preparing to return volley during tennis match.,28.832778930664062,13,False
+euler_s30,euler,30,183,417285,1183,0183.png,A series of photos of two plates with different desserts and another plate with a cup of coffee.,33.62881088256836,21,False
+euler_s30,euler,30,184,483667,1184,0184.png,a man wearing a top hat and a red tie,32.13609313964844,12,False
+euler_s30,euler,30,185,475572,1185,0185.png,"There are is a picture of a couple, a beany baby bear, and pot of grass on a mantle.",33.98147964477539,25,False
+euler_s30,euler,30,186,55072,1186,0186.png,A single giraffe looks over the green brush.,33.745628356933594,11,False
+euler_s30,euler,30,187,492968,1187,0187.png,A snowboarder with black and white clothes finishing a run.,33.10525894165039,14,False
+euler_s30,euler,30,188,378515,1188,0188.png,A man kneeling down over piles of bananas.,36.4344596862793,12,False
+euler_s30,euler,30,189,191761,1189,0189.png,A plate of bananas and sliced oranges covered in butterflies.,36.762420654296875,13,False
+euler_s30,euler,30,190,451150,1190,0190.png,Half a dozen donuts are sitting in a box.,30.144428253173828,12,False
+euler_s30,euler,30,191,505169,1191,0191.png,A toilet next to a chain shower stall in a bathroom.,27.03902816772461,14,False
+euler_s30,euler,30,192,179487,1192,0192.png,A woman tennis player is about to return the ball.,31.956254959106445,13,False
+euler_s30,euler,30,193,482436,1193,0193.png,The woman in the diner and the man looking into the window are making eye contact.,29.123615264892578,19,False
+euler_s30,euler,30,194,235241,1194,0194.png,Woman and man playing with a disk toy outside on the beach.,33.39052963256836,15,False
+euler_s30,euler,30,195,426166,1195,0195.png,A light blue bicycle chained to a pole on the sidewalk in front of a red building.,32.1424446105957,20,False
+euler_s30,euler,30,196,39785,1196,0196.png,A person is surfing in a wave pool.,35.138771057128906,11,False
+euler_s30,euler,30,197,556873,1197,0197.png,A cake that is sitting in the grass.,35.91584396362305,11,False
+euler_s30,euler,30,198,460229,1198,0198.png,A red traffic stop sign with a blank white sign below it.,26.662080764770508,15,False
+euler_s30,euler,30,199,45229,1199,0199.png,A kitchen filled with a wooden cabinet and a large window.,31.454410552978516,14,False

@@ -1,0 +1,5 @@
+Model/Sampler,Schedule,Latency (s/image),FID ↓,CLIP Score ↑
+SD v1.5 / Euler,Non-Karras / linspace,5.424,152.114,31.220
+SD v1.5 / Euler,Karras,5.425,151.837,31.257
+SD v1.5 / DPM++ 2M,Non-Karras / linspace,5.348,150.440,31.178
+SD v1.5 / DPM++ 2M,Karras,5.435,150.110,31.331

@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "generated_utc": "2026-10-11T15:22:18.474993+00:00",
+  "expected_batch_count": 9,
+  "expected_prompt_count": 200,
+  "raw_rows": 1800,
+  "summary_rows": 9,
+  "raw_key": [
+    "prompt_id",
+    "sampler",
+    "steps",
+    "schedule"
+  ],
+  "raw_columns": [
+    "prompt_id",
+    "sampler",
+    "steps",
+    "schedule",
+    "inference_time_sec",
+    "clip_score",
+    "fid_score"
+  ],
+  "summary_columns": [
+    "batch",
+    "sampler",
+    "steps",
+    "schedule",
+    "n_images",
+    "inference_time_sec",
+    "inference_time_std_sec",
+    "inference_time_median_sec",
+    "fid_score",
+    "clip_score",
+    "timing_gpu",
+    "latency_status"
+  ],
+  "batch_definitions": {
+    "ddim_s30": {
+      "source_sampler": "ddim",
+      "sampler": "ddim",
+      "schedule": "native",
+      "steps": 30
+    },
+    "euler_s30": {
+      "source_sampler": "euler",
+      "sampler": "euler",
+      "schedule": "non_karras",
+      "steps": 30
+    },
+    "dpmpp_s30": {
+      "source_sampler": "dpmpp",
+      "sampler": "dpmpp",
+      "schedule": "karras",
+      "steps": 30
+    },
+    "euler_karras_s30": {
+      "source_sampler": "euler_karras",
+      "sampler": "euler",
+      "schedule": "karras",
+      "steps": 30
+    },
+    "dpmpp_nokarras_s30": {
+      "source_sampler": "dpmpp_nokarras",
+      "sampler": "dpmpp",
+      "schedule": "non_karras",
+      "steps": 30
+    },
+    "dpmpp_s10": {
+      "source_sampler": "dpmpp",
+      "sampler": "dpmpp",
+      "schedule": "karras",
+      "steps": 10
+    },
+    "dpmpp_s20": {
+      "source_sampler": "dpmpp",
+      "sampler": "dpmpp",
+      "schedule": "karras",
+      "steps": 20
+    },
+    "dpmpp_s40": {
+      "source_sampler": "dpmpp",
+      "sampler": "dpmpp",
+      "schedule": "karras",
+      "steps": 40
+    },
+    "dpmpp_s50": {
+      "source_sampler": "dpmpp",
+      "sampler": "dpmpp",
+      "schedule": "karras",
+      "steps": 50
+    }
+  },
+  "definitions": {
+    "fid": "batch-level clean-fid score, repeated on raw rows; not a per-image FID",
+    "clip_raw": "unclamped 100*cos normalised embeddings",
+    "clip_summary": "max(mean(raw clip_score),0)",
+    "latency": "original per-prompt 200-image T4 generation log; not the 20-prompt recheck"
+  },
+  "sources": [
+    {
+      "path": "data/captions.json",
+      "sha256": "ccbe7363b811b11fb0fbf7301e226e07b37ccf68fc4b0d43a77f2bedb458da67"
+    },
+    {
+      "path": "results/evaluation_details/ddim_s30_clip_per_image.csv",
+      "sha256": "b44efe6d5a153caa8ad87edff42da453cbcc478d5cbddf88140e3ea6d5533994"
+    },
+    {
+      "path": "results/evaluation_details/dpmpp_nokarras_s30_clip_per_image.csv",
+      "sha256": "f6a4895dd24ef5efce9b1f0ef2bc0c2e2630f908e43cb4819ff514a04f4058d6"
+    },
+    {
+      "path": "results/evaluation_details/dpmpp_s10_clip_per_image.csv",
+      "sha256": "e813cb29c56ba0c7d07fb67fac1f2f0363da3e18d1262bab4f4028918fc5daf2"
+    },
+    {
+      "path": "results/evaluation_details/dpmpp_s20_clip_per_image.csv",
+      "sha256": "401a0de0bb4326d0359514bb3ceaa1d1b534594e9f34be725c6b18a9aeeca07f"
+    },
+    {
+      "path": "results/evaluation_details/dpmpp_s30_clip_per_image.csv",
+      "sha256": "1621e5851d682147e89db8ee1608cdc883203778c0ea62b7c7cfb0de2ea92f06"
+    },
+    {
+      "path": "results/evaluation_details/dpmpp_s40_clip_per_image.csv",
+      "sha256": "7557468952308c2bd387d2f0788fc77b777265a458439be50dafcd8b940eef15"
+    },
+    {
+      "path": "results/evaluation_details/dpmpp_s50_clip_per_image.csv",
+      "sha256": "bcedc7b9b65e2c32aa52a8b9902406511cf5215f08d6504c7595ccf202c0b077"
+    },
+    {
+      "path": "results/evaluation_details/euler_karras_s30_clip_per_image.csv",
+      "sha256": "34b435ae1c515eac8e665867b5a002bdb5cc8bf97d16b652c2757ad0eca38cfc"
+    },
+    {
+      "path": "results/evaluation_details/euler_s30_clip_per_image.csv",
+      "sha256": "b1ee710da8e640c25406cca43180f550675da4a98d934c670c566faa4f56e0ba"
+    },
+    {
+      "path": "results/evaluation_details/metric_provenance.json",
+      "sha256": "b5c8c2018d5b98439de87d49dbe1d07dc79dffe2fb8737f2410c0fa28bd466bb"
+    },
+    {
+      "path": "results/evaluation_details/metrics.csv",
+      "sha256": "b9e15676d69e80a02194162646a4834364fb26065a281fb16510a92d45490523"
+    },
+    {
+      "path": "results/evaluation_details/summary.csv",
+      "sha256": "b9e15676d69e80a02194162646a4834364fb26065a281fb16510a92d45490523"
+    },
+    {
+      "path": "results/generation_log.csv",
+      "sha256": "7ee1c9c1682b35f8ea9bfdc922d34e60cbe886bd0fd1bd59fa35d07856358316"
+    },
+    {
+      "path": "results/images/ddim_s30/run_config.json",
+      "sha256": "58f312ddb84c74082a390f3eaced60d61bf33e3f529c33e46aaa55128f3890b5"
+    },
+    {
+      "path": "results/images/dpmpp_nokarras_s30/run_config.json",
+      "sha256": "6a07632e85e9f86fc41b36440e863326755367e8b19a9ba5910ca5cefd12fad2"
+    },
+    {
+      "path": "results/images/dpmpp_s10/run_config.json",
+      "sha256": "00fb16f40beacf19670b0a504a7afa0424490188d8bfc9d8c9e91dec29400c53"
+    },
+    {
+      "path": "results/images/dpmpp_s20/run_config.json",
+      "sha256": "6136eaacca8802c233fe960826b8b5abe82af57ae1e11ba8c6dea16eca50f72e"
+    },
+    {
+      "path": "results/images/dpmpp_s30/run_config.json",
+      "sha256": "f3dcf2d95516c63db29aec7c9b940298e5ab9bdabf6fd688ac0e26799f07b1c7"
+    },
+    {
+      "path": "results/images/dpmpp_s40/run_config.json",
+      "sha256": "a37ba0eb24daecda9363d7dc1e399d478cadb309b60d24e71fe1479cd36c2bf2"
+    },
+    {
+      "path": "results/images/dpmpp_s50/run_config.json",
+      "sha256": "28acae8fba0fc5b44605979fd8789d65cf0cd7454bb48bbf621c7812285a4c03"
+    },
+    {
+      "path": "results/images/euler_karras_s30/run_config.json",
+      "sha256": "15fbc986b36dcb21364e06b4fc36c1edb32b6ed4ed38b7393345d3814d6f16e2"
+    },
+    {
+      "path": "results/images/euler_s30/run_config.json",
+      "sha256": "dacaa5484f640b9af8f172f1a4dd6f21051dd834899784e3e6c09856c7245ff6"
+    }
+  ],
+  "outputs": {
+    "evaluation_raw_results.csv": {
+      "sha256": "355cb052abf084d2de33239eeb14c64cd67b8935bd0a4c7add053cf38d72b3e1",
+      "rows": 1800
+    },
+    "evaluation_summary.csv": {
+      "sha256": "9a4f6ab4cb33896b1a6672d4fc891fe15f9e85f527a8508260a63030c3da3f7b",
+      "rows": 9
+    },
+    "evaluation_summary.md": {
+      "sha256": "2d9430c17f2324616cd8103afb012b8a62a8ed0410f686bbb84005e8cc9ea98e"
+    }
+  }
+}

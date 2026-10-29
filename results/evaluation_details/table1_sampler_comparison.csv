@@ -1,0 +1,4 @@
+Model/Sampler,Schedule,Latency (s/image),FID ↓,CLIP Score ↑
+SD v1.5 / DDIM,Native DDIM / leading,5.434,151.328,31.140
+SD v1.5 / Euler,Non-Karras / linspace,5.424,152.114,31.220
+SD v1.5 / DPM++ 2M,Karras,5.435,150.110,31.331

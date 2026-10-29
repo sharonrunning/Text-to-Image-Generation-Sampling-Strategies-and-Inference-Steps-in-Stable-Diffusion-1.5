@@ -1,0 +1,32 @@
+% Requires \usepackage{booktabs} in the report preamble.
+
+\begin{table}[htbp]
+\centering
+\caption{Sampling Strategy Comparison: three samplers (30 steps)}
+\label{tab:member-b-samplers}
+\begin{tabular}{llrrr}
+\toprule
+Model/Sampler & Schedule & Latency (s/image) & FID & CLIP Score \\
+\midrule
+SD v1.5 / DDIM & Native DDIM / leading & 5.434 & 151.328 & 31.140 \\
+SD v1.5 / Euler & Non-Karras / linspace & 5.424 & 152.114 & 31.220 \\
+SD v1.5 / DPM++ 2M & Karras & 5.435 & 150.110 & 31.331 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+\centering
+\caption{Sampling Strategy Comparison: solver/schedule ablation (30 steps)}
+\label{tab:member-b-solver-schedule}
+\begin{tabular}{llrrr}
+\toprule
+Model/Sampler & Schedule & Latency (s/image) & FID & CLIP Score \\
+\midrule
+SD v1.5 / Euler & Non-Karras / linspace & 5.424 & 152.114 & 31.220 \\
+SD v1.5 / Euler & Karras & 5.425 & 151.837 & 31.257 \\
+SD v1.5 / DPM++ 2M & Non-Karras / linspace & 5.348 & 150.440 & 31.178 \\
+SD v1.5 / DPM++ 2M & Karras & 5.435 & 150.110 & 31.331 \\
+\bottomrule
+\end{tabular}
+\end{table}

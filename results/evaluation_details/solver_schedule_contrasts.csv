@@ -1,0 +1,13 @@
+contrast,metric,reference_batch,compared_batch,reference_value,compared_value,delta_compared_minus_reference
+Karras effect within Euler,coursework_latency_mean_s,euler_s30,euler_karras_s30,5.423912,5.4248385,0.0009265000000002743
+Karras effect within Euler,fid_clean,euler_s30,euler_karras_s30,152.1143416580445,151.83743292780565,-0.2769087302388584
+Karras effect within Euler,clip_score_100,euler_s30,euler_karras_s30,31.22032615661621,31.257222537994384,0.03689638137817397
+Karras effect within DPM++,coursework_latency_mean_s,dpmpp_nokarras_s30,dpmpp_s30,5.3483325,5.4352805,0.08694800000000047
+Karras effect within DPM++,fid_clean,dpmpp_nokarras_s30,dpmpp_s30,150.44035399452605,150.11015595675485,-0.33019803777119705
+Karras effect within DPM++,clip_score_100,dpmpp_nokarras_s30,dpmpp_s30,31.17822566032409,31.33070816993713,0.1524825096130371
+"DPM++ versus Euler, non-Karras",coursework_latency_mean_s,euler_s30,dpmpp_nokarras_s30,5.423912,5.3483325,-0.07557949999999991
+"DPM++ versus Euler, non-Karras",fid_clean,euler_s30,dpmpp_nokarras_s30,152.1143416580445,150.44035399452605,-1.67398766351846
+"DPM++ versus Euler, non-Karras",clip_score_100,euler_s30,dpmpp_nokarras_s30,31.22032615661621,31.17822566032409,-0.042100496292118095
+"DPM++ versus Euler, Karras",coursework_latency_mean_s,euler_karras_s30,dpmpp_s30,5.4248385,5.4352805,0.010442000000000284
+"DPM++ versus Euler, Karras",fid_clean,euler_karras_s30,dpmpp_s30,151.83743292780565,150.11015595675485,-1.7272769710507987
+"DPM++ versus Euler, Karras",clip_score_100,euler_karras_s30,dpmpp_s30,31.257222537994384,31.33070816993713,0.07348563194274504

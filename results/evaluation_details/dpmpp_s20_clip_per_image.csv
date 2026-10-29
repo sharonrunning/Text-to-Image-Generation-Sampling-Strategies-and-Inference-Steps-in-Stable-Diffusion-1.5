@@ -1,0 +1,201 @@
+batch,sampler,steps,prompt_id,image_id,seed,image_file,caption,clip_raw_100cos,caption_tokens,truncated
+dpmpp_s20,dpmpp,20,0,161978,1000,0000.png,Different people are doing skateboard tricks and riding.,29.623525619506836,11,False
+dpmpp_s20,dpmpp,20,1,216296,1001,0001.png,a couple of guys with tennis rackets waiting on a ball,30.7685546875,14,False
+dpmpp_s20,dpmpp,20,2,570456,1002,0002.png,A living room filled with furniture and a table.,26.541423797607422,12,False
+dpmpp_s20,dpmpp,20,3,176701,1003,0003.png,Identical street signs pointing in the opposite directions of each other.,30.75043296813965,14,False
+dpmpp_s20,dpmpp,20,4,541291,1004,0004.png,"The old, dilapidated  bathroom has fallen into disrepair.",30.4687442779541,16,False
+dpmpp_s20,dpmpp,20,5,113720,1005,0005.png,A couple is sitting at a table eating pizza.,31.65617561340332,12,False
+dpmpp_s20,dpmpp,20,6,49091,1006,0006.png,A city lined with tall buildings covered in hanging letters.,28.41693687438965,13,False
+dpmpp_s20,dpmpp,20,7,42070,1007,0007.png,A very big city bus on a big street.,29.98155403137207,12,False
+dpmpp_s20,dpmpp,20,8,32081,1008,0008.png,A woman holding a tennis racquet on a tennis court.,29.367637634277344,14,False
+dpmpp_s20,dpmpp,20,9,84241,1009,0009.png,A group of women in kitchen next to pot.,34.4260139465332,12,False
+dpmpp_s20,dpmpp,20,10,461405,1010,0010.png,A group of sheep in a grassy area with trees in the back ground.,33.56697463989258,17,False
+dpmpp_s20,dpmpp,20,11,156924,1011,0011.png,a man and a woman are holding video game controllers,32.781742095947266,12,False
+dpmpp_s20,dpmpp,20,12,138241,1012,0012.png,A burrito sitting on top of a white plate.,33.652198791503906,12,False
+dpmpp_s20,dpmpp,20,13,213593,1013,0013.png,A red stop sign sitting on the side of a tall building.,34.29988479614258,15,False
+dpmpp_s20,dpmpp,20,14,482100,1014,0014.png,These toilets are being used outside as decor,29.40453338623047,10,False
+dpmpp_s20,dpmpp,20,15,482719,1015,0015.png,The fruit is placed in a bowl out in the open to be eaten,28.585582733154297,16,False
+dpmpp_s20,dpmpp,20,16,147729,1016,0016.png,People gathered taking pictures with a cell phone.,28.678857803344727,11,False
+dpmpp_s20,dpmpp,20,17,365642,1017,0017.png,A young attractive woman sitting on a toilette on the side of a street.,35.26447296142578,18,False
+dpmpp_s20,dpmpp,20,18,203864,1018,0018.png,Two people standing on a tennis court playing tennis,32.09196853637695,11,False
+dpmpp_s20,dpmpp,20,19,565563,1019,0019.png,Many cars are parked along the sidewalk of a narrow street.,32.882381439208984,14,False
+dpmpp_s20,dpmpp,20,20,257478,1020,0020.png,a close up of a baseball player holding a glove on the field,30.72584342956543,15,False
+dpmpp_s20,dpmpp,20,21,568814,1021,0021.png,A man with a bear sitting with his arms crossed and his tie over his left shoulder.,31.88579750061035,20,False
+dpmpp_s20,dpmpp,20,22,16958,1022,0022.png,A room with a fireplace and a wooden table.,27.257600784301758,12,False
+dpmpp_s20,dpmpp,20,23,345356,1023,0023.png,A man in a gray shirt holds his phone as he sits by a man in a white t-shirt.,25.504732131958008,24,False
+dpmpp_s20,dpmpp,20,24,525286,1024,0024.png,A large clock  is on the wall where the paint is peeling.,29.397090911865234,15,False
+dpmpp_s20,dpmpp,20,25,128699,1025,0025.png,A man that has a skateboard in the air.,30.24129867553711,12,False
+dpmpp_s20,dpmpp,20,26,527427,1026,0026.png,a female is talking on the phone and a laptop on a table,28.968727111816406,15,False
+dpmpp_s20,dpmpp,20,27,313454,1027,0027.png,A man standing at a podium at a USINDO luncheon,30.80384063720703,13,False
+dpmpp_s20,dpmpp,20,28,94852,1028,0028.png,A mother looks after a baby elephant in the wild.,32.23647689819336,13,False
+dpmpp_s20,dpmpp,20,29,97994,1029,0029.png,Three laptop computers and a desktop computer sit next to each other.,30.59851837158203,17,False
+dpmpp_s20,dpmpp,20,30,189806,1030,0030.png,A cat and a Dog playing on the floor near shoes.,31.73430633544922,14,False
+dpmpp_s20,dpmpp,20,31,523194,1031,0031.png,A fire hydrant on the side of a road.,31.21248435974121,13,False
+dpmpp_s20,dpmpp,20,32,270122,1032,0032.png,Waves crashing on the shore with a surfer in the midst,28.282243728637695,13,False
+dpmpp_s20,dpmpp,20,33,167540,1033,0033.png,An airplane flying in a cloudy blue sky.,29.149389266967773,11,False
+dpmpp_s20,dpmpp,20,34,451144,1034,0034.png,a couple of people on skis sit on top of a snowy hill,30.328872680664062,15,False
+dpmpp_s20,dpmpp,20,35,370270,1035,0035.png,a person hitting a ball with a stick in a office.,31.994892120361328,14,False
+dpmpp_s20,dpmpp,20,36,119088,1036,0036.png,The men are up to their knees in the water.,30.843616485595703,13,False
+dpmpp_s20,dpmpp,20,37,41633,1037,0037.png,"A burgundy low-rider show-quality, hot rod Chevy truck.",35.47426986694336,16,False
+dpmpp_s20,dpmpp,20,38,1503,1038,0038.png,A computer on a desk next to a laptop.,25.26065444946289,13,False
+dpmpp_s20,dpmpp,20,39,127987,1039,0039.png,A baseball player bobble head next to two computer monitors on a desk.,35.203338623046875,17,False
+dpmpp_s20,dpmpp,20,40,286908,1040,0040.png,Various dishes of food sit in bowls on a table.,30.79053497314453,13,False
+dpmpp_s20,dpmpp,20,41,321214,1041,0041.png,A baby in plaid shirt eating a frosted cake.,33.61561584472656,12,False
+dpmpp_s20,dpmpp,20,42,508312,1042,0042.png,A stove that has a light above it.,27.74740982055664,11,False
+dpmpp_s20,dpmpp,20,43,453302,1043,0043.png,"A kitchen that has a tile floor, a refrigerator, a microwave, and a toaster.",31.22504997253418,20,False
+dpmpp_s20,dpmpp,20,44,157847,1044,0044.png,a bird that is flying high over the sky,29.872013092041016,11,False
+dpmpp_s20,dpmpp,20,45,81594,1045,0045.png,A woman holding an umbrella while standing on top of a wooden deck.,34.126888275146484,16,False
+dpmpp_s20,dpmpp,20,46,221281,1046,0046.png,A group of giraffes walking in the sand.,31.098413467407227,12,False
+dpmpp_s20,dpmpp,20,47,474028,1047,0047.png,a group of kids playing soccer in a field,30.490985870361328,11,False
+dpmpp_s20,dpmpp,20,48,267670,1048,0048.png,"A toilet, mirror and sink in a toilet",28.144502639770508,11,False
+dpmpp_s20,dpmpp,20,49,110282,1049,0049.png,"A metal pole with a traffic light attached, red right arrow illuminated, with green grass, green trees, and white sky in background.",33.88894271850586,29,False
+dpmpp_s20,dpmpp,20,50,73326,1050,0050.png,An open refrigerator including bottles of various food.,30.250762939453125,11,False
+dpmpp_s20,dpmpp,20,51,462576,1051,0051.png,a plate of breakfast food sits on a table,29.22515869140625,11,False
+dpmpp_s20,dpmpp,20,52,213033,1052,0052.png,A man standing near the water with an umbrella.,33.1982536315918,12,False
+dpmpp_s20,dpmpp,20,53,15746,1053,0053.png,A fire hydrant is standing amid some grass.,41.61580276489258,12,False
+dpmpp_s20,dpmpp,20,54,334417,1054,0054.png,A man looks on as he finishes his meal,29.472854614257812,11,False
+dpmpp_s20,dpmpp,20,55,190307,1055,0055.png,The young woman is riding the dolphin in the water.,33.10589599609375,13,False
+dpmpp_s20,dpmpp,20,56,55299,1056,0056.png,A bird is perched on a large rock near the shore.,31.53154754638672,14,False
+dpmpp_s20,dpmpp,20,57,553731,1057,0057.png,A clown talking on a  phone next to a building.,32.8361701965332,13,False
+dpmpp_s20,dpmpp,20,58,302990,1058,0058.png,A person with a surfboard in a room.,33.178680419921875,12,False
+dpmpp_s20,dpmpp,20,59,140556,1059,0059.png,these man are standing near a fire hydrant,29.715221405029297,11,False
+dpmpp_s20,dpmpp,20,60,139077,1060,0060.png,A young boy holding a Nintendo Wii game controller.,32.2237548828125,12,False
+dpmpp_s20,dpmpp,20,61,568290,1061,0061.png,A red extra long bus driving down a stone covered walkway.,33.577964782714844,14,False
+dpmpp_s20,dpmpp,20,62,547886,1062,0062.png,Four people on horses walking on beach next to water.,35.21138000488281,13,False
+dpmpp_s20,dpmpp,20,63,412887,1063,0063.png,"Though not the smartest animals in the world, the cow still has a friendly face.",31.796222686767578,19,False
+dpmpp_s20,dpmpp,20,64,532493,1064,0064.png,A surfer on a white board riding a small wave.,29.44902801513672,13,False
+dpmpp_s20,dpmpp,20,65,201418,1065,0065.png,A young man standing in front of a luggage carousel at an airport.,34.177696228027344,16,False
+dpmpp_s20,dpmpp,20,66,446574,1066,0066.png,A bathroom has a shower and toilet in it.,28.32794189453125,12,False
+dpmpp_s20,dpmpp,20,67,520531,1067,0067.png,an image of a cat sitting on top of the desk area,33.7704963684082,14,False
+dpmpp_s20,dpmpp,20,68,1675,1068,0068.png,A cat resting on an open laptop computer.,31.35223960876465,12,False
+dpmpp_s20,dpmpp,20,69,246968,1069,0069.png,A young woman standing in the kitchen pours from a large measuring cup.,26.739334106445312,16,False
+dpmpp_s20,dpmpp,20,70,302760,1070,0070.png,A bathroom sink with a marble counter top under a large mirror.,26.777767181396484,15,False
+dpmpp_s20,dpmpp,20,71,297396,1071,0071.png,Small pieces of cake have been arranged on a plate,31.663551330566406,12,False
+dpmpp_s20,dpmpp,20,72,545407,1072,0072.png,A side view of a plane flying in the clear blue sky,29.56986427307129,14,False
+dpmpp_s20,dpmpp,20,73,199055,1073,0073.png,A person on skateboard skating on the pavement.,30.14378547668457,12,False
+dpmpp_s20,dpmpp,20,74,168593,1074,0074.png,"There are two refrigerators in this dirty, rundown kitchen.",35.303688049316406,14,False
+dpmpp_s20,dpmpp,20,75,490515,1075,0075.png,a person riding a snow board falling to the ground,31.671667098999023,12,False
+dpmpp_s20,dpmpp,20,76,515266,1076,0076.png,A white truck parked next to a white trailer.,29.23784828186035,12,False
+dpmpp_s20,dpmpp,20,77,554595,1077,0077.png,A man laying on top of a sandy beach laying next to a surfboard.,28.091720581054688,18,False
+dpmpp_s20,dpmpp,20,78,438226,1078,0078.png,A sandwich on a plate cutin half next to pasta.,31.624561309814453,14,False
+dpmpp_s20,dpmpp,20,79,140929,1079,0079.png,The clock is on display on the side of the building outside.,29.02899932861328,15,False
+dpmpp_s20,dpmpp,20,80,185599,1080,0080.png,Many apples and oranges are stacked near to each other.,25.071048736572266,13,False
+dpmpp_s20,dpmpp,20,81,24610,1081,0081.png,A disorderly living area is free from decorative elements.,28.629350662231445,13,False
+dpmpp_s20,dpmpp,20,82,283070,1082,0082.png,some oranges that are sitting on some wood,29.8879451751709,10,False
+dpmpp_s20,dpmpp,20,83,564091,1083,0083.png,A woman is sitting at her jewelry display and talking on the phone.,33.19126892089844,16,False
+dpmpp_s20,dpmpp,20,84,361142,1084,0084.png,A very tall building sitting along side of a street.,28.110414505004883,13,False
+dpmpp_s20,dpmpp,20,85,184324,1085,0085.png,A group of people walking across a busy city street.,29.82282257080078,13,False
+dpmpp_s20,dpmpp,20,86,336309,1086,0086.png,a large passenger airplane flying through a cloudy sky,30.36833381652832,11,False
+dpmpp_s20,dpmpp,20,87,242060,1087,0087.png,a plate of pastry on a wood table and a glass of drink,35.36502456665039,15,False
+dpmpp_s20,dpmpp,20,88,555012,1088,0088.png,The roll of toilet paper beside the toilet is empty.,29.83555793762207,13,False
+dpmpp_s20,dpmpp,20,89,96960,1089,0089.png,A large white polar bear swimming in a pool of blue water.,33.6230583190918,15,False
+dpmpp_s20,dpmpp,20,90,147205,1090,0090.png,Some food that is on a glass plate.,26.427265167236328,11,False
+dpmpp_s20,dpmpp,20,91,100489,1091,0091.png,A bird perched on top of a tree filled with leaves.,33.906436920166016,14,False
+dpmpp_s20,dpmpp,20,92,327617,1092,0092.png,an old black and white photo of a tennis player,33.47534942626953,12,False
+dpmpp_s20,dpmpp,20,93,92416,1093,0093.png,A young man holding a bottle of beer while wearing a suit.,33.62191390991211,15,False
+dpmpp_s20,dpmpp,20,94,129062,1094,0094.png,A hotdog stand with outside seating and bright lights.,37.19877243041992,12,False
+dpmpp_s20,dpmpp,20,95,289960,1095,0095.png,A person standing on top of a beach flying a kite.,34.524139404296875,14,False
+dpmpp_s20,dpmpp,20,96,323895,1096,0096.png,A man in yellow shirt and black shorts playing a game of tennis.,31.244853973388672,16,False
+dpmpp_s20,dpmpp,20,97,132544,1097,0097.png,A girl taking a swing at a baseball during a game.,31.662363052368164,14,False
+dpmpp_s20,dpmpp,20,98,229747,1098,0098.png,A photo of an outside with various things in the scene.,29.424724578857422,14,False
+dpmpp_s20,dpmpp,20,99,237316,1099,0099.png,The tiny white bathroom has a toilet and pedestal sink.,29.6018123626709,14,False
+dpmpp_s20,dpmpp,20,100,133567,1100,0100.png,A person looking at a train going by.,25.45414924621582,11,False
+dpmpp_s20,dpmpp,20,101,468954,1101,0101.png,A man with glasses on playing wii with a wii remote in his hand.,31.65174674987793,17,False
+dpmpp_s20,dpmpp,20,102,344816,1102,0102.png,The train engine is followed by a line of open cars.,28.740251541137695,14,False
+dpmpp_s20,dpmpp,20,103,442463,1103,0103.png,A kid is riding down the street on a skateboard.,34.00397872924805,13,False
+dpmpp_s20,dpmpp,20,104,35682,1104,0104.png,Eating a donut makes for a quick and easy breakfast.,30.01841926574707,13,False
+dpmpp_s20,dpmpp,20,105,245513,1105,0105.png,A giraffe standing in a field next to a fence.,31.471235275268555,13,False
+dpmpp_s20,dpmpp,20,106,62554,1106,0106.png,Several plates of food are set on a table.,28.60688018798828,12,False
+dpmpp_s20,dpmpp,20,107,492077,1107,0107.png,A line of people are riding bicycles on the street.,31.80224609375,13,False
+dpmpp_s20,dpmpp,20,108,415716,1108,0108.png,"A beige living room with a cabinet,flowers, lamp and armchair.",29.68358612060547,16,False
+dpmpp_s20,dpmpp,20,109,568439,1109,0109.png,A couple of double high buses that are in the street.,29.97242546081543,14,False
+dpmpp_s20,dpmpp,20,110,534394,1110,0110.png,A herd of sheep moving up over a wall to a field from a sidewalk.,30.535686492919922,18,False
+dpmpp_s20,dpmpp,20,111,31749,1111,0111.png,A demonic looking chucky like doll standing next to a white clock.,35.61307144165039,15,False
+dpmpp_s20,dpmpp,20,112,257896,1112,0112.png,a close up of a person wearing a suit and tie,33.18161392211914,13,False
+dpmpp_s20,dpmpp,20,113,287527,1113,0113.png,A young man and woman holding their heads close to each other.,29.349306106567383,15,False
+dpmpp_s20,dpmpp,20,114,330554,1114,0114.png,Blender with portions of its contents spilled around it.,28.517127990722656,12,False
+dpmpp_s20,dpmpp,20,115,134882,1115,0115.png,A cat laying on a bed in front of a book shelf.,33.45745086669922,15,False
+dpmpp_s20,dpmpp,20,116,347174,1116,0116.png,A woman laying in bed  in her underwear.,28.28509521484375,11,False
+dpmpp_s20,dpmpp,20,117,335954,1117,0117.png,two cups filled with veggies and nuts,32.502166748046875,9,False
+dpmpp_s20,dpmpp,20,118,168458,1118,0118.png,there is a small glass vase that has purple flowers in it,31.890838623046875,14,False
+dpmpp_s20,dpmpp,20,119,476810,1119,0119.png,a cat is on a table next to a remote,31.753448486328125,12,False
+dpmpp_s20,dpmpp,20,120,457559,1120,0120.png,A group of young men playing a game of soccer.,30.26929473876953,13,False
+dpmpp_s20,dpmpp,20,121,417608,1121,0121.png,A cut in half sandwich sitting on top of a white plate.,28.34717559814453,15,False
+dpmpp_s20,dpmpp,20,122,189475,1122,0122.png,some people seated at a table with plates of food,27.82512855529785,12,False
+dpmpp_s20,dpmpp,20,123,8690,1123,0123.png,The two young girls are petting the two goats.,36.153202056884766,12,False
+dpmpp_s20,dpmpp,20,124,249129,1124,0124.png,A group of teddy bears sitting at a small table in front of a christmas tree.,37.44127655029297,19,False
+dpmpp_s20,dpmpp,20,125,455267,1125,0125.png,a wok on a stove cooking some food,28.762901306152344,10,False
+dpmpp_s20,dpmpp,20,126,158227,1126,0126.png,A young boy wearing a baseball uniform holding a baseball bat.,36.98475646972656,14,False
+dpmpp_s20,dpmpp,20,127,102644,1127,0127.png,A white toilet sitting in a bathroom next to a shower.,26.83662986755371,14,False
+dpmpp_s20,dpmpp,20,128,108026,1128,0128.png,A man holds a controller and keyboard with his hands,29.129005432128906,12,False
+dpmpp_s20,dpmpp,20,129,529568,1129,0129.png,A big fancy glass chandelier hanging in a small kitchen.,35.0733642578125,13,False
+dpmpp_s20,dpmpp,20,130,90062,1130,0130.png,A black and white cow stands in a paddock with firewood in the background.,31.79665184020996,18,False
+dpmpp_s20,dpmpp,20,131,125952,1131,0131.png,A piece of luggage is ready to go with cold wear on top for quick usage.,30.827144622802734,19,False
+dpmpp_s20,dpmpp,20,132,226883,1132,0132.png,An animal grazing on a lush field of green grass.,33.82270431518555,13,False
+dpmpp_s20,dpmpp,20,133,370813,1133,0133.png,A skateboarder's airborne feet and skateboard near a curb,32.50019073486328,13,False
+dpmpp_s20,dpmpp,20,134,122166,1134,0134.png,a person riding on a bicycle on the street in front of some cars,29.212617874145508,16,False
+dpmpp_s20,dpmpp,20,135,172877,1135,0135.png,A man in a shirt and tie sitting on a white chair next to a lamp.,27.799779891967773,19,False
+dpmpp_s20,dpmpp,20,136,262587,1136,0136.png,A man riding a wave on top of a yellow surfboard.,31.671428680419922,15,False
+dpmpp_s20,dpmpp,20,137,577932,1137,0137.png,A woman walking next to a man riding a pink bike.,35.76972961425781,14,False
+dpmpp_s20,dpmpp,20,138,120777,1138,0138.png,A tray topped with two plates of food and a drink.,27.417118072509766,14,False
+dpmpp_s20,dpmpp,20,139,426297,1139,0139.png,The zebra is wondering about the shadow that he sees.,31.177631378173828,13,False
+dpmpp_s20,dpmpp,20,140,240023,1140,0140.png,A tennis player using his shirt to dry his face during a tournament game.,30.624202728271484,17,False
+dpmpp_s20,dpmpp,20,141,352491,1141,0141.png,A train sitting idle in an empty train station,30.52766990661621,11,False
+dpmpp_s20,dpmpp,20,142,304545,1142,0142.png,A black suitcase with a handle and white background.,30.734455108642578,12,False
+dpmpp_s20,dpmpp,20,143,105014,1143,0143.png,a salad that looks like a boat is next to a fork,26.56668472290039,14,False
+dpmpp_s20,dpmpp,20,144,565469,1144,0144.png,there is a very tall tower with a clock at the top,25.649946212768555,14,False
+dpmpp_s20,dpmpp,20,145,100274,1145,0145.png,A long train traveling through a train yard.,28.36589813232422,11,False
+dpmpp_s20,dpmpp,20,146,18193,1146,0146.png,A woman in green sweater eating a hotdog by campfire.,37.05454635620117,13,False
+dpmpp_s20,dpmpp,20,147,509014,1147,0147.png,A group of people that are standing in the snow.,31.794490814208984,13,False
+dpmpp_s20,dpmpp,20,148,163746,1148,0148.png,A pretty young girl standing next to another pretty young girl on a beach.,32.842872619628906,17,False
+dpmpp_s20,dpmpp,20,149,215072,1149,0149.png,A couple of people sitting in chairs under an umbrella.,31.882640838623047,13,False
+dpmpp_s20,dpmpp,20,150,286507,1150,0150.png,A long red train traveling through snow covered country side.,34.009315490722656,13,False
+dpmpp_s20,dpmpp,20,151,226408,1151,0151.png,Child laying down with arms extended in the air.,28.64154052734375,12,False
+dpmpp_s20,dpmpp,20,152,341973,1152,0152.png,Two girls pose for a photo holding doughnuts.,35.719268798828125,11,False
+dpmpp_s20,dpmpp,20,153,163314,1153,0153.png,People are walking in front of some shops.,25.96236228942871,11,False
+dpmpp_s20,dpmpp,20,154,44260,1154,0154.png,A collection of apples growing on a tree.,32.747886657714844,11,False
+dpmpp_s20,dpmpp,20,155,128051,1155,0155.png,A green bus with a smaller bus sitting on top of it.,31.45976448059082,15,False
+dpmpp_s20,dpmpp,20,156,157046,1156,0156.png,A Nintendo Wii remote is being used to control a projector,29.13573455810547,13,False
+dpmpp_s20,dpmpp,20,157,261706,1157,0157.png,A black and white cat laying on a couch.,34.57364273071289,12,False
+dpmpp_s20,dpmpp,20,158,173183,1158,0158.png,"Street signs, corner of Lynn and Bigelow.taken 11.01.2009 23:58.",29.888057708740234,30,False
+dpmpp_s20,dpmpp,20,159,410650,1159,0159.png,A beautiful young woman swinging a tennis racquet on a tennis court.,29.889890670776367,16,False
+dpmpp_s20,dpmpp,20,160,281693,1160,0160.png,A large jet airplane being loaded with cargo at an airport.,31.16358184814453,14,False
+dpmpp_s20,dpmpp,20,161,177213,1161,0161.png,Small pizza sits on a plate on a restaurant table.,30.35186004638672,13,False
+dpmpp_s20,dpmpp,20,162,316404,1162,0162.png,A pair of men with small mustaches dress as tennis players.,39.0866813659668,15,False
+dpmpp_s20,dpmpp,20,163,239857,1163,0163.png,A woman is about to throw a frisbee in the dirt.,34.692256927490234,14,False
+dpmpp_s20,dpmpp,20,164,380711,1164,0164.png,There is a blurry photo of a surfer walking out of the water,29.772323608398438,15,False
+dpmpp_s20,dpmpp,20,165,136600,1165,0165.png,A lap top sits on a small desk with jars and candles around it,30.27532958984375,16,False
+dpmpp_s20,dpmpp,20,166,82180,1166,0166.png,A teddy bear and a stuffed raccoon sitting on a faded wooden outdoor chair.,36.60462951660156,17,False
+dpmpp_s20,dpmpp,20,167,26690,1167,0167.png,A man is high in the air as he skateboards on the ramp.,30.15870475769043,17,False
+dpmpp_s20,dpmpp,20,168,424721,1168,0168.png,A frying pan filled with vegetables and apples.,32.410133361816406,11,False
+dpmpp_s20,dpmpp,20,169,49259,1169,0169.png,A man with his shirt off sitting by the shoreline sunning himself.,33.374359130859375,16,False
+dpmpp_s20,dpmpp,20,170,290843,1170,0170.png,A woman sitting on a laptop computer next to a cat.,34.649818420410156,15,False
+dpmpp_s20,dpmpp,20,171,476215,1171,0171.png,A man standing behind two brown horses on a dirt field.,34.24073028564453,14,False
+dpmpp_s20,dpmpp,20,172,79144,1172,0172.png,Bear cubs play among the fallen tree limbs.,30.511659622192383,11,False
+dpmpp_s20,dpmpp,20,173,323709,1173,0173.png,Large commercial cargo plane sits on tarmac next to radar equipment.,30.85719871520996,14,False
+dpmpp_s20,dpmpp,20,174,335427,1174,0174.png,A bowl filled with broccoli soup next to a spoon and fork.,31.3562068939209,15,False
+dpmpp_s20,dpmpp,20,175,83172,1175,0175.png,A woman holding a racquet on top of a tennis court.,29.419139862060547,15,False
+dpmpp_s20,dpmpp,20,176,525083,1176,0176.png,a view of a kitchen from across the room.,29.39174461364746,12,False
+dpmpp_s20,dpmpp,20,177,357978,1177,0177.png,The blonde woman in the red checked shirt is learning to use Wii Fit.,29.835552215576172,17,False
+dpmpp_s20,dpmpp,20,178,127955,1178,0178.png,there are two brown bears that are playing together in the water,32.655269622802734,14,False
+dpmpp_s20,dpmpp,20,179,441491,1179,0179.png,Three women are taking a bite out of the same piece of pizza.,35.08650588989258,16,False
+dpmpp_s20,dpmpp,20,180,376322,1180,0180.png,A group of people are reading a menu at the table,30.86504364013672,13,False
+dpmpp_s20,dpmpp,20,181,80949,1181,0181.png,A KITTEN NAPPING ON THE KEYBOARD OF A LAPTOP.,34.98704528808594,12,False
+dpmpp_s20,dpmpp,20,182,189775,1182,0182.png,Competior preparing to return volley during tennis match.,30.126262664794922,13,False
+dpmpp_s20,dpmpp,20,183,417285,1183,0183.png,A series of photos of two plates with different desserts and another plate with a cup of coffee.,33.38582992553711,21,False
+dpmpp_s20,dpmpp,20,184,483667,1184,0184.png,a man wearing a top hat and a red tie,29.830801010131836,12,False
+dpmpp_s20,dpmpp,20,185,475572,1185,0185.png,"There are is a picture of a couple, a beany baby bear, and pot of grass on a mantle.",33.713226318359375,25,False
+dpmpp_s20,dpmpp,20,186,55072,1186,0186.png,A single giraffe looks over the green brush.,33.843467712402344,11,False
+dpmpp_s20,dpmpp,20,187,492968,1187,0187.png,A snowboarder with black and white clothes finishing a run.,33.48341751098633,14,False
+dpmpp_s20,dpmpp,20,188,378515,1188,0188.png,A man kneeling down over piles of bananas.,35.81875991821289,12,False
+dpmpp_s20,dpmpp,20,189,191761,1189,0189.png,A plate of bananas and sliced oranges covered in butterflies.,35.57545471191406,13,False
+dpmpp_s20,dpmpp,20,190,451150,1190,0190.png,Half a dozen donuts are sitting in a box.,29.86685562133789,12,False
+dpmpp_s20,dpmpp,20,191,505169,1191,0191.png,A toilet next to a chain shower stall in a bathroom.,27.241992950439453,14,False
+dpmpp_s20,dpmpp,20,192,179487,1192,0192.png,A woman tennis player is about to return the ball.,31.121849060058594,13,False
+dpmpp_s20,dpmpp,20,193,482436,1193,0193.png,The woman in the diner and the man looking into the window are making eye contact.,29.29421615600586,19,False
+dpmpp_s20,dpmpp,20,194,235241,1194,0194.png,Woman and man playing with a disk toy outside on the beach.,32.15927505493164,15,False
+dpmpp_s20,dpmpp,20,195,426166,1195,0195.png,A light blue bicycle chained to a pole on the sidewalk in front of a red building.,32.566532135009766,20,False
+dpmpp_s20,dpmpp,20,196,39785,1196,0196.png,A person is surfing in a wave pool.,34.240657806396484,11,False
+dpmpp_s20,dpmpp,20,197,556873,1197,0197.png,A cake that is sitting in the grass.,36.84404373168945,11,False
+dpmpp_s20,dpmpp,20,198,460229,1198,0198.png,A red traffic stop sign with a blank white sign below it.,26.289535522460938,15,False
+dpmpp_s20,dpmpp,20,199,45229,1199,0199.png,A kitchen filled with a wooden cabinet and a large window.,31.291088104248047,14,False
