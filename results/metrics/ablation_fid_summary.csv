@@ -1,0 +1,3 @@
+sampler,fid,num_real_images,num_generated_images,fid_mode
+euler_karras,151.83792987212342,200,200,clean
+dpmpp_nokarras,150.44045167725704,200,200,clean

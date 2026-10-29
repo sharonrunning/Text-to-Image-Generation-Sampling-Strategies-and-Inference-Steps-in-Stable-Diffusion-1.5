@@ -1,0 +1,6 @@
+sampler,clip_mean,clip_std,fid
+DDIM,31.14,2.9246,151.3286
+Euler,31.2203,2.8617,152.1145
+DPM++ 2M Karras,31.3307,2.7582,150.1101
+Euler + Karras,31.2572,2.8319,151.8379
+DPM++ 2M without Karras,31.1782,2.786,150.4405

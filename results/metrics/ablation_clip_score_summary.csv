@@ -1,0 +1,3 @@
+sampler,count,mean,std,median
+dpmpp_nokarras,200,31.1782,2.786,30.9701
+euler_karras,200,31.2572,2.8319,31.0959

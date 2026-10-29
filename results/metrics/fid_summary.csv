@@ -1,0 +1,4 @@
+sampler,fid,num_real_images,num_generated_images,fid_mode
+ddim,151.32855978047098,200,200,clean
+euler,152.11445927235036,200,200,clean
+dpmpp,150.1101447734086,200,200,clean
